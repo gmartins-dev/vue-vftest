@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f5f3f6;
+  height: 100vh;
+  color: #444346;
+  font-family: 'Roboto Slab', serif;
+}
