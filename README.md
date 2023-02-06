@@ -53,13 +53,13 @@ This project was developed with the following technologies:
 <p  align="center">
   <h5 align="center">🖥 Desktop:</h5>
   <kbd>
-<img width="100%" style="border-radius: 5px" height="70%" src="public/assets/demo-desktop.png" alt="">
+<img width="100%" style="border-radius: 5px" height="70%" src="public/demos/demo-desktop.png" alt="">
 </kbd>
 </p>
   <h5 align="center">📱 Mobile:</h5>
 <p  align="center">
 <kbd>
-<img width="600" style="border-radius: 5px" height="900" src="public/assets/demo-mobile.png" alt="">
+<img width="600" style="border-radius: 5px" height="900" src="public/demos/demo-mobile.png" alt="">
 </kbd>
 </p>
 
