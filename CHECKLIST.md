@@ -15,50 +15,38 @@ tailwind? https://tailwindcss.com/docs/guides/vite
 -
 -
 ### Study about:
-  [] Composition API
-  [] Single File Components
-  []
+  [x] Composition API
+  [x] Single File Components
+  [x] VueJs in general
 
 ## Development
 
-[] Create initial project with Vite.js
-[] Clean unecessary default files
-[] Install/setup Tailwind
-[] Create folders/files structure
+[x] Create initial project with Vite.js
+[x] Clean unecessary default files
+[x] Install/setup Tailwind
+[x] Create folders/files structure
 
 ### [] Components:
-[] Header
-[] Menu
-[] Sidebar
-[] Filter
-[] Cards
-[] Button
+[x] Header
+[x] Menu
+[x] Sidebar
+[x] Filter
+[x] Cards
+[x] Chart
+[x] Button
 
 
 ### [] Logics to implement:
-[] Fetch data from api
-[]
-[]
+[x] Fetch data from api
+[x] Show dynamic data
+[] Create a functional Cart
 
 
 ## Production
 
-[] Deploy
-[] Test everything in production
-[] Take screens and videos to demonstration
-[] Make a README
-[] Make a presentation
+[x] Deploy
+[x] Test everything in production
+[x] Take screens to demonstration
+[x] Make a README
 
-
-### Colors:
-
-#9479FF → purple
-
-#F5F3F6 → gray bg
-
-#E6E4E7 → gray buttons
-
-#333333 → gray fonts
-
-#FFFFFF → white bgs
 

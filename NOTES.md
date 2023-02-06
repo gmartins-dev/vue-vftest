@@ -39,3 +39,18 @@ Components.
 ● State management
 ● Application side effects (async data fetching)
 ● Application structure (with a view to scalability and reusability)
+
+
+
+
+### Colors:
+
+#9479FF → purple
+
+#F5F3F6 → gray bg
+
+#E6E4E7 → gray buttons
+
+#333333 → gray fonts
+
+#FFFFFF → white bgs
