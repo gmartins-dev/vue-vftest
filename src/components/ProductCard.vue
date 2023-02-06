@@ -5,10 +5,7 @@
     :key="product.id"
   >
     <div class="bg-[#F5F3F6] p-3">
-      <img
-        src="https://cdn.shopify.com/s/files/1/0797/7413/products/brand-playon-wtee-white.jpg"
-        class="object-cover w-full h-72"
-      />
+      <img :src="product['images'][0].src" class="object-cover w-full h-72" />
     </div>
     <div class="my-10 text-center flex justify-between font-semibold uppercase">
       <ul>
@@ -16,7 +13,8 @@
           {{ product.title }}
         </li>
       </ul>
-      <strong>£45</strong>
+
+      <strong>£{{ product['variants'][0].price }}</strong>
     </div>
     <div class="flex justify-center">
       <button
@@ -27,7 +25,8 @@
       <button
         class="p-2 mb-2 flex-1 uppercase font-light text-black transition-all cursor-pointer hover:bg-stone-300 hover:scale-110 bg-[#E6E4E7]"
       >
-        quick <br />view
+        quick <br />
+        view
       </button>
     </div>
   </div>
