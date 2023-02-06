@@ -70,7 +70,7 @@ This project was developed with the following technologies:
 If you want to run the project on your local machine, just follow the steps below:
 
 ```bash
-$ git clone https://github.com/guilhermemm-dev/react-chat-app
+$ git clone https://github.com/guilhermemm-dev/vue-vftest
 
 # Install the dependencies
 
@@ -83,7 +83,7 @@ $ yarn run dev or npm run dev
 ```
 
 ```bash
-Obs: Before run the App, don't forget to add an ".env" file at the root folder of the project with the api url as shown in the "env.example" file
+⚠ Attention: Before run the App, don't forget to add an ".env" file at the root folder of the project with the api url as shown in the "env.example" file
 ```
 
 
