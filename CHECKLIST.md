@@ -12,12 +12,13 @@ tailwind? https://tailwindcss.com/docs/guides/vite
 -Pnpm package manager
 -Vite.js
 -Vue.js v3
--
--
+-TailwindCSS
+
 ### Study about:
+
+  [x] VueJs in general
   [x] Composition API
   [x] Single File Components
-  [x] VueJs in general
 
 ## Development
 
@@ -48,5 +49,3 @@ tailwind? https://tailwindcss.com/docs/guides/vite
 [x] Test everything in production
 [x] Take screens to demonstration
 [x] Make a README
-
-
